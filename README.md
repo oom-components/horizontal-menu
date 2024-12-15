@@ -63,6 +63,11 @@ attributes for clarity):
 ```css
 my-menu {
   /* Generic styles */
+  display: flex;
+
+  a {
+    white-space: nowrap;
+  }
 
   &::part(menu) {
     /* Main container */
