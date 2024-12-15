@@ -1,0 +1,29 @@
+{
+  "name": "@oom/horizontal-menu",
+  "version": "0.1.0",
+  "description": "Web component to create a responsive horizontal menu",
+  "browser": "src/menu.js",
+  "modules.root": "src",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oom-components/horizontal-menu.git"
+  },
+  "keywords": [
+    "progressive",
+    "web",
+    "component",
+    "menu",
+    "responsive",
+    "custom element",
+    "es6"
+  ],
+  "author": "Oscar Otero <oom@oscarotero.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oom-components/horizontal-menu/issues"
+  },
+  "homepage": "https://github.com/oom-components/horizontal-menu#readme"
+}
